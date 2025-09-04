@@ -68,8 +68,42 @@
 
 VOD MOVIES
 
-#EXTINF:-1 group-title="VOD MOVIES"  tvg-logo="123", Jurassic World: Rebirth (2025)
-index-v1-a1.m3u8?t=YAPkIguY8krugueK5NYGioJgtYcUw9oUiqvutHYQpjc&s=1756229387&e=10800&f=48142964&srv=1060&asn=7713&sp=5500&p=
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/7/6/csm_BAOJI-China-Masters-2025_5fb5375fa9.png", BADMINTON BAOJI China Masters 2025 1
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3996909291723061_AiHD.m3u8?txSecret=30a1dd2e9fb5957d84f79cf72428d595&txTime=68BA2800
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/7/6/csm_BAOJI-China-Masters-2025_5fb5375fa9.png", BADMINTON BAOJI China Masters 2025 2
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3996909474388061_AiHD.m3u8?txSecret=87edb434427828353927a20f6d220e04&txTime=68BA2800
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/7/6/csm_BAOJI-China-Masters-2025_5fb5375fa9.png", BADMINTON BAOJI China Masters 2025 3
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3996910377601061_AiHD.m3u8?txSecret=e179b38ff05f7095c12238701b2d0194&txTime=68BA2800
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/7/6/csm_BAOJI-China-Masters-2025_5fb5375fa9.png", BADMINTON BAOJI China Masters 2025 4
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/3996910550624061_AiHD.m3u8?txSecret=aa0712df0e984ec12bf343ccb7398b79&txTime=68BA2800
+
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19488&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 16:00 WIB Livoli Divisi Utama 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
+https://spacetv.my.id/index.mpd?id=19488&type=dash
+
 
 
 
