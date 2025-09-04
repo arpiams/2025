@@ -1215,21 +1215,20 @@ https://wahyu1ptv.pages.dev/SonySports5-HD.m3u8
 
 
 
-EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="VIP SPORTS",SONY TEN 1 HD
+#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="VIP SPORTS",Sony Ten Sports 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-
-EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="VIP SPORTS",SONY TEN 2 HD
+#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="VIP SPORTS",Sony Ten Sports 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-
-EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="VIP SPORTS",SONY TEN 3 HD
+#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="VIP SPORTS",Sony Ten Sports 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-
-EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="VIP SPORTS", SONY TEN 4 HD
+#EXTINF:-1 tvg-id="Sony Ten 4" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="VIP SPORTS",Sony Ten Sports 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-
-EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="VIP SPORTS",SONY TEN 5 HD
+#EXTINF:-1 tvg-id="Sony Ten 5" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="VIP SPORTS",Sony Ten Sports 5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
