@@ -98,17 +98,10 @@ https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
 https://spacetv.my.id/index.mpd?id=19488&type=dash
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="1", Indonesia vs Chinese Taipei - Timnas Garuda Matchday
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="1", Indonesia - Timnas Garuda Matchday
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=19497&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19497&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19497&type=drm
 https://spacetv.my.id/index.mpd?id=19497&type=dash
 
 
