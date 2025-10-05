@@ -283,21 +283,18 @@ https://spacetv.my.id/index.m3u8?id=19046&type=hls
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.macan.tv/img/indosiar.png",Indosiar
+#EXTVLCOPT:http-user-agent=stream
+#http://iptvid.my.id/avc/Arvi89/arviams18031989/indosiar.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.macan.tv/img/indosiar.png",Indosiar
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.macan.tv/img/indosiar.png",Indosiar
+#https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.macan.tv/img/indosiar.png",Indosiar (VDO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://spacetv.my.id/index.m3u8?id=205&type=hls
-
-
-
-#EXTVLCOPT:http-user-agent=stream
-#http://iptvid.my.id/avc/Arvi89/arviams18031989/indosiar.m3u8
-
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/SCTV_On-Air_2005-2017.png/revision/latest/scale-to-width-down/250?cb=",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1289,24 +1286,34 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="VIP SPORTS",GB : TNT SPORTS 01
+http://mains.services/live/bshorty/Zv5le07a0J/6c5b4010-afa9-4e64-921b-263217b936da.ts
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="VIP SPORTS",GB : TNT SPORTS 02
+http://mains.services/live/bshorty/Zv5le07a0J/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="GB : TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="VIP SPORTS",GB : TNT SPORTS 03
+http://mains.services/live/bshorty/Zv5le07a0J/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="GB : TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="VIP SPORTS",GB : TNT SPORTS 04
+http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-8693-93df9e1b846f.ts
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="GB : TNT SPORTS 05" tvg-logo="http://145.239.7.84/logos/TNTSports5_Logo_White_RGB_Logo.png" group-title="VIP SPORTS",GB : TNT SPORTS 05
+http://mains.services/live/bshorty/Zv5le07a0J/92614ec7-2113-4151-bc29-3a23ade80cc7.ts
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="VIP SPORTS",TNT Sport 1 
+EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="VIP SPORTS",TNT Sport 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="VIP SPORTS",TNT Sport 2 
+EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="VIP SPORTS",TNT Sport 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="VIP SPORTS",TNT Sport 3 
+EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="VIP SPORTS",TNT Sport 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1314,7 +1321,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?encoding=segmentBase 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="VIP SPORTS",TNT Sport 4 
+EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="VIP SPORTS",TNT Sport 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
