@@ -284,8 +284,7 @@ https://spacetv.my.id/index.m3u8?id=19046&type=hls
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.macan.tv/img/indosiar.png",Indosiar
-#EXTVLCOPT:http-user-agent=stream
-http://iptvid.my.id/avc/Arvi89/arviams18031989/indosiar.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
@@ -1137,11 +1136,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19404&type=dash
 
 #EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png/revision/latest?cb=20220810080805",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
-https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+https://spacetv.my.id/index.m3u8?id=9182&type=hls
 
 
 #EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png/revision/latest?cb=20220810080805",Champions TV 5 B
