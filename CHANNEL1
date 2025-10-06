@@ -71,15 +71,14 @@ VOD MOVIES
 
 
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/7/6/csm_BAOJI-China-Masters-2025_5fb5375fa9.png", BADMINTON BAOJI China Masters 2025 1
-#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3996909291723061_AiHD.m3u8?txSecret=30a1dd2e9fb5957d84f79cf72428d595&txTime=68BA2800
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/mav-prod-resized/0x0/ori/image_bank/2024/09/02/055135.511-jadwal-siaran-langsung-arab-saudi-vs-timnas-indonesia-di-kualifikasi-piala-dunia-2026-1.jpg" group-title="LIVE EVENT", AFC Qualifiers Round 4 FIFA
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/7/6/csm_BAOJI-China-Masters-2025_5fb5375fa9.png", BADMINTON BAOJI China Masters 2025 2
-#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/3996909474388061_AiHD.m3u8?txSecret=87edb434427828353927a20f6d220e04&txTime=68BA2800
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/mav-prod-resized/0x0/ori/image_bank/2024/09/02/055135.511-jadwal-siaran-langsung-arab-saudi-vs-timnas-indonesia-di-kualifikasi-piala-dunia-2026-1.jpg" group-title="LIVE EVENT", AFC Qualifiers Round 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/7/6/csm_BAOJI-China-Masters-2025_5fb5375fa9.png", BADMINTON BAOJI China Masters 2025 3
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
@@ -200,12 +199,26 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI Super League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19354&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19354&type=dash
+
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
 https://spacetv.my.id/index.mpd?id=19354&type=dash
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", PENGADAIAN LIGA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19543&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19543&type=dash
+
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19543&type=drm
@@ -295,6 +308,10 @@ EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.macan.tv/img/indosiar.png",I
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://spacetv.my.id/index.m3u8?id=205&type=hls
 
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.macan.tv/img/indosiar.png",Indosiar (NEX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV.m3u8
+
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/SCTV_On-Air_2005-2017.png/revision/latest/scale-to-width-down/250?cb=",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -310,6 +327,13 @@ https://spacetv.my.id/index.m3u8?id=204&type=hls
 https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="LOKAL",ANTV HD (VDO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=782&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=782&type=dash
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://spacetv.my.id/index.m3u8?id=782&type=hls
 
@@ -365,17 +389,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 https://spacetv.my.id/index.m3u8?id=1561&type=hls
 
 
-EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",MOJI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",MOJI HD
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 
-EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",MOJI EVENT
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",MOJI EVENT
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli8.m3u8
+
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=206&type=drm 
@@ -963,6 +986,14 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=17139&type=dash
 
 #EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png",SPOTV 2 VDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=17140&type=dash
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1139,8 +1170,12 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19404&type=dash
 
 
 #EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png/revision/latest?cb=20220810080805",Champions TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://spacetv.my.id/index.m3u8?id=9182&type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9182&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9182&type=dash
 
 
 #EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png/revision/latest?cb=20220810080805",Champions TV 5 B
@@ -1155,11 +1190,13 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=9182&type=drm
 https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="VIP SPORTS",Champions TV 6 C
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="VIP SPORTS",Champions TV 6 C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=9183&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9183&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=9183&type=dash
 
 #EXTINF:-1 group-title="VIP SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Champions_TV_6.png/revision/latest?cb=20220810081421",Champions TV 6 B
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
