@@ -335,7 +335,7 @@ https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/SCTV_On-Air_2005-2017.png/revision/latest/scale-to-width-down/250?cb=",SCTV (INDI)
-https://cdn10jtedge.indihometv.com/atm/DASH/SCTV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png",ANTV HD
