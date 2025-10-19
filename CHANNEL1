@@ -129,12 +129,12 @@ https://spacetv.my.id/index.mpd?id=19686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=18253&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18253&type=dash
 
-#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYbetDZxQrRJA94SA2Xg_Q6VfioQsahgEZw&s", BWF COURT 2
+EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYbetDZxQrRJA94SA2Xg_Q6VfioQsahgEZw&s", BWF COURT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYbetDZxQrRJA94SA2Xg_Q6VfioQsahgEZw&s", BWF COURT 3
+#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYbetDZxQrRJA94SA2Xg_Q6VfioQsahgEZw&s", BWF COURT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -146,7 +146,7 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=18249&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18249&type=dash
 
-#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYbetDZxQrRJA94SA2Xg_Q6VfioQsahgEZw&s", BWF COURT 4
+#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYbetDZxQrRJA94SA2Xg_Q6VfioQsahgEZw&s", BWF COURT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -158,7 +158,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=18249&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=18250&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18250&type=dash
 
-#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYbetDZxQrRJA94SA2Xg_Q6VfioQsahgEZw&s", BWF COURT 5
+#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYbetDZxQrRJA94SA2Xg_Q6VfioQsahgEZw&s", BWF COURT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -170,7 +170,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=18250&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=18252&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18252&type=dash
 
-#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYbetDZxQrRJA94SA2Xg_Q6VfioQsahgEZw&s", BWF COURT 6
+#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYbetDZxQrRJA94SA2Xg_Q6VfioQsahgEZw&s", BWF COURT 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -185,19 +185,19 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=18253&type=dash
 
 
 
-#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhje7Q4FD1Qq_QBliTTChxbkgml4LnJZ7H9cM6A0f_EGqM_6P1Bg24Mj5M&s=10", FIVB 1
+EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhje7Q4FD1Qq_QBliTTChxbkgml4LnJZ7H9cM6A0f_EGqM_6P1Bg24Mj5M&s=10", FIVB 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
 
-#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhje7Q4FD1Qq_QBliTTChxbkgml4LnJZ7H9cM6A0f_EGqM_6P1Bg24Mj5M&s=10", FIVB 2
+EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhje7Q4FD1Qq_QBliTTChxbkgml4LnJZ7H9cM6A0f_EGqM_6P1Bg24Mj5M&s=10", FIVB 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
 
-#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhje7Q4FD1Qq_QBliTTChxbkgml4LnJZ7H9cM6A0f_EGqM_6P1Bg24Mj5M&s=10", FIVB 3
+EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhje7Q4FD1Qq_QBliTTChxbkgml4LnJZ7H9cM6A0f_EGqM_6P1Bg24Mj5M&s=10", FIVB 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=drm
@@ -236,6 +236,16 @@ https://vidd.semar.my.id/koneksi.php?id=19543&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19541&type=drm
 https://spacetv.my.id/index.mpd?id=19541&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", PENGADAIAN LIGA 2 A
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=19584&type=drm 
+https://vidd.semar.my.id/koneksi.php?id=19584&type=dash
+
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -639,11 +649,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/avc/Arvi89/arviams18031989/maxstream.m3u8
 
-EXTINF:-1 group-title="MOVIE" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/5/57/DramaChannel.png/revision/latest?cb=20210330142913",Drama Channel
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=204
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36 
+#EXTINF:-1 tvg-id="496.mytv" tvg-logo="https://mimipipi22.github.io/logo/entertainment/dramaworld.jpg" group-title="MOVIE",DRAMA CHANNEL
+https://slive.mana2.my/DramaChannel/index.mpd
 
 
 #EXTINF:-1 tvg-id="flik" tvg-name="Flik" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/flik.png", FLIK
