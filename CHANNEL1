@@ -219,8 +219,8 @@ https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=19543&type=dash
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", PENGADAIAN LIGA 2 B
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19584&type=drm
-https://spacetv.my.id/index.mpd?id=19584&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19543&type=drm
+https://spacetv.my.id/index.mpd?id=19543&type=dash
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", PENGADAIAN LIGA 2 C
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -329,12 +329,9 @@ EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.macan.tv/img/indosiar.png",I
 #https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.macan.tv/img/indosiar.png",Indosiar (VDO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=205&type=drm
-https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=205&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://spacetv.my.id/index.m3u8?id=19354&type=hls
+
 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
