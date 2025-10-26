@@ -711,10 +711,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="HBO GRUB", HBO (FMX)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
 #EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="HBO GRUB", HBO (FMX) 2
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -1327,6 +1327,11 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="VIP SPORTS", FUBO SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-538/stream.mpd
+
 #EXTINF:-1 tvg-id="" group-title="VIP SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png",Hub Premier 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1378,13 +1383,18 @@ EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.p
 http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 #http://202.147.193.244/live/eds/FightSports/sa_dash/FightSports.mpd
 
-EXTINF:-1 tvg-logo="https://imgur.com/a/JdGYwoz" group-title="VIP SPORTS",FIFA+ CHANNEL
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-
-EXTINF:-1 tvg-logo="" group-title="VIP SPORTS",ESPN HD
-http://hardcoremedia.xyz:80/live/u6gAEkqRg/Z6URtqZhcp/17467.ts
+#EXTINF:-1 tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_1.webp" group-title="VIP SPORTS",SONY SPORTS TEN 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTINF:-1 tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_2.webp" group-title="VIP SPORTS",SONY SPORTS TEN 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTINF:-1 tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_3.webp" group-title="VIP SPORTS",SONY SPORTS TEN 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTINF:-1 tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_4.webp" group-title="VIP SPORTS",SONY SPORTS TEN 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 
 
