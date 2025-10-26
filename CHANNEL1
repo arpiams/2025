@@ -192,10 +192,11 @@ https://vidd.semar.my.id/vidreq.php?id=18252&type=dash
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI Super League 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-https://spacetv.my.id/index.mpd?id=19354&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=19354&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19354&type=dash
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", PENGADAIAN LIGA 2 A
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -520,10 +521,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 http://iptvid.my.id/avc/Arvi89/arviams18031989/metrotv.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="TVOne.MACAN" group-title="NEWS" tvg-logo="https://cdn.macan.tv/img/tvone.png", TVONE
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://seprai.jasoncreak8.workers.dev/play.m3u8?id=783&type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=783&type=drm
+https://colloriptvpro.my.id/vid0/pidio/index.mpd?id=783&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1384,17 +1387,16 @@ http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 #http://202.147.193.244/live/eds/FightSports/sa_dash/FightSports.mpd
 
 #EXTINF:-1 tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_1.webp" group-title="VIP SPORTS",SONY SPORTS TEN 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+http://livebox.pro/565trail724/6655447788/154
+
 #EXTINF:-1 tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_2.webp" group-title="VIP SPORTS",SONY SPORTS TEN 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+http://livebox.pro/565trail724/6655447788/31314
+
 #EXTINF:-1 tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_3.webp" group-title="VIP SPORTS",SONY SPORTS TEN 3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+http://livebox.pro/565trail724/6655447788/146
+
 #EXTINF:-1 tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_4.webp" group-title="VIP SPORTS",SONY SPORTS TEN 4
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+http://livebox.pro/565trail724/6655447788/29469
 
 
 
